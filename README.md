@@ -8,3 +8,5 @@ HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js |
 ### Proyectos destacados
 <hr>
 * Trendy Shop: https://trendy-web-lemon.vercel.app/
+* Rick adn Morty: https://github.com/MatiTarl/Rick_and_Morty_FT38b
+* Pokemon Card: https://github.com/MatiTarl/PI-Pokemon
