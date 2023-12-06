@@ -12,5 +12,4 @@ HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js |
 * Rick adn Morty: https://github.com/MatiTarl/Rick_and_Morty_FT38b
 <br>
 * Pokemon Card: https://github.com/MatiTarl/PI-Pokemon
-<br>
-<hr>
+<hr/>
