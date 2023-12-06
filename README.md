@@ -13,3 +13,4 @@ HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js |
 <br>
 * Pokemon Card: https://github.com/MatiTarl/PI-Pokemon
 <br>
+<hr>
