@@ -6,4 +6,5 @@ HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js |
 
 
 ### Proyectos destacados
-<hr><hr/>
+<hr>
+* Trendy Shop: https://trendy-web-lemon.vercel.app/
