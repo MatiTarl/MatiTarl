@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un entusiasta del desarrollo web con experiencia en las siguientes tecnologías:
 
-
+HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js | Sequelize | PostgreSQL
 <!--
 **MatiTarl/MatiTarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
