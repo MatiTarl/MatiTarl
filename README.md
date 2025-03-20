@@ -9,7 +9,7 @@ HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js |
 <hr>
 * Trendy Shop: https://trendy-web-lemon.vercel.app/
 <br>
-* Rick adn Morty: https://github.com/MatiTarl/Rick_and_Morty_FT38b
+* Texas Bull: https://texasbull.vercel.app/ - En progreso...
 <br>
-* Pokemon Card: https://github.com/MatiTarl/PI-Pokemon
+* Portfolio: https://matitari.vercel.app/
 <hr/>
