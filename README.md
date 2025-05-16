@@ -5,7 +5,7 @@
 HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js | Sequelize | PostgreSQL
 
 <i class="fa-brands fa-html5"></i>
-### Proyectos destacados
+### Proyectos levantados y listos para que te metas a meterle un ojo 
 <hr>
 * Trendy Shop: https://trendy-web-lemon.vercel.app/
 <br>
