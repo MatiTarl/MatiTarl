@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Soy Matias Tari
 
-¡Bienvenido a mi perfil de GitHub! Soy un entusiasta del desarrollo web con experiencia en las siguientes tecnologías:
+¡Bienvenido a mi perfil de GitHub! Soy un entusiasta del desarrollo web, implemetaciones, lo que sea, simplemente me encanta la tecnologia y hablar con computadoras. Esto es lo que mejor se me da:
 
 HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js | Sequelize | PostgreSQL
 
@@ -9,7 +9,7 @@ HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js |
 <hr>
 * Trendy Shop: https://trendy-web-lemon.vercel.app/
 <br>
-* Texas Bull: https://texasbull.vercel.app/ - En progreso...
+* Texas Bull: https://texasbull.vercel.app/
 <br>
 * Portfolio: https://matitari.vercel.app/
 <hr/>
