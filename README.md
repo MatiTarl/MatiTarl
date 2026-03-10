@@ -13,5 +13,5 @@ HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js |
 <br>
 * Portfolio: https://matitari.vercel.app/
 <br>
-* Portfolio: https://www.elbuenraviol.com.ar/
+* El Buen Raviol: https://www.elbuenraviol.com.ar/
 <hr/>
