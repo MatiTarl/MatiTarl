@@ -12,6 +12,6 @@ HTML5 | CSS3 | JavaScript | React | Redux | Tailwind CSS | Bootstrap | Node.js |
 * Texas Bull: https://texasbull.vercel.app/
 <br>
 * Portfolio: https://matitari.vercel.app/
-<hr/>
+<br>
 * Portfolio: https://www.elbuenraviol.com.ar/
 <hr/>
